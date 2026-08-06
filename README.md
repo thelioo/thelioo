@@ -1,16 +1,19 @@
-## Hi there 👋
+### Olá! 👋 Sou o Thélio Matheus
 
-<!--
-**thelioo/thelioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Engenheiro de Dados** na [Addiante](https://github.com/Addiante), trabalhando com pipelines de dados, integrações (Salesforce/IFS) e APIs REST em arquitetura Clean/Hexagonal, com deploy em GCP.
 
-Here are some ideas to get you started:
+🚀 Fundador da **Amplia Labs**, onde desenvolvo o cnpj.wiki, um data warehouse aberto com dados de mais de 70 milhões de CNPJs brasileiros.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Stack:** Python · Airflow · dbt · GCP · BigQuery · SQL · PostgreSQL · TypeScript · Node.js · NestJS · Next.js
+
+📌 **Projetos em destaque**
+
+• cnpjwiki (https://github.com/amplia-labs/cnpjwiki) — data warehouse aberto de CNPJs
+
+• opencode-balancer (https://github.com/thelioo/opencode-balancer) — plugin de balanceamento de contas para o opencode
+
+• class-validator-br (https://github.com/thelioo/class-validator-br) — validadores de dados brasileiros (CPF) publicados no npm
+
+• desafio-scraping-x (https://github.com/thelioo/desafio-scraping-x) — extração e estruturação de dados de vagas
+
+📫 Contato: LinkedIn (https://www.linkedin.com/in/theliomatheus)
