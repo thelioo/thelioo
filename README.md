@@ -8,7 +8,7 @@
 
 📌 **Projetos em destaque**
 
-• cnpjwiki (https://github.com/amplia-labs/cnpjwiki) — data warehouse aberto de CNPJs
+• cnpjwiki (https://cnpj.wiki) — data warehouse aberto de CNPJs
 
 • opencode-balancer (https://github.com/thelioo/opencode-balancer) — plugin de balanceamento de contas para o opencode
 
