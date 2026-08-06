@@ -12,8 +12,4 @@
 
 • opencode-balancer (https://github.com/thelioo/opencode-balancer) — plugin de balanceamento de contas para o opencode
 
-• class-validator-br (https://github.com/thelioo/class-validator-br) — validadores de dados brasileiros (CPF) publicados no npm
-
-• desafio-scraping-x (https://github.com/thelioo/desafio-scraping-x) — extração e estruturação de dados de vagas
-
 📫 Contato: LinkedIn (https://www.linkedin.com/in/theliomatheus)
